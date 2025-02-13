@@ -1,6 +1,3 @@
-# Faouzia-Said
-Bienvenue sur ma page
-
 <h1>Hi, I'm Faouzia! <br/><a 
 
 # My Portfolio
